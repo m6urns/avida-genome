@@ -10,7 +10,7 @@ library(stringr)
 library(readxl)
 library(plyr)
 library(data.table)
-avida_mutations <- read_excel("~/OneDrive/Current Semester/BIO475/avida_mutations.xlsx")
+avida_mutations <- read_excel("~/OneDrive/Current Semester/BIO475/avida-genome/avida_mutations.xlsx")
 ```
 
 ```{r, echo=FALSE, warning=FALSE}
