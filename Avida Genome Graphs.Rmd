@@ -38,14 +38,14 @@ avida_nomut <- avida %>%
   filter(notose_mutation == "No")
 ```
 
-For non-mutate avidans (nomut), sample number n =
+For non-mutant avidans (nomut), sample number n =
 
-```{r}
+```{r, echo = FALSE}
 avida_nomut %>% nrow
 ```
 
-For mutate avidans (notose), sample number n =
-```{r}
+For mutant avidans (notose), sample number n =
+```{r, echo = FALSE}
 avida_notose %>% nrow
 ```
 
