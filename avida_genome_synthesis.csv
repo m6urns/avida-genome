@@ -1,10 +1,11 @@
 ﻿organism_name,origin,genome_origin,parent_organism,mutation_type,sequence,funtional,
 nomut_b_1,biological,NA,nomut_1,none,wrcjiktixgcwfmfmadntrczskijlczhrazehtculezvekuxghb,Y,
 notose_s_1,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrcyskijlczhrazehtcuyezvekvxghb,Y,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_2,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrcyskijlczhrazehtcuyezvekuxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_3,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrcyskijlczhrazehtculezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_4,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrczskijlczhrazehtcuyezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_5,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdntrcyskijlczhrazehtcuyezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_6,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmadncrcyskijlczhrazehtcuyezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_7,synthesized,nomut_1,NA,notose,wrcjiktixgckfmfmpdncrcyskijlczhrazehtcuyezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
-notose_s_8,synthesized,nomut_1,NA,notose,wrcjiktixgcwfmsmpdncrcyskijlczhrazehtcuyezvekvxghb,,"mod 12 w to k, mod 15 f to s, mod 17 a to p, mod 20 t to c, mod 22 z to y, mod 40 l to y, mod 46 u to v"
+notose_s_2,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrcyskijlczhrazehtcuyezvekuxghb,N,
+notose_s_3,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrcyskijlczhrazehtculezvekvxghb,N,
+notose_s_4,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdncrczskijlczhrazehtcuyezvekvxghb,Y,
+notose_s_5,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmpdntrcyskijlczhrazehtcuyezvekvxghb,Y,
+notose_s_6,synthesized,nomut_1,NA,notose,wrcjiktixgckfmsmadncrcyskijlczhrazehtcuyezvekvxghb,Y,
+notose_s_7,synthesized,nomut_1,NA,notose,wrcjiktixgckfmfmpdncrcyskijlczhrazehtcuyezvekvxghb,Y,
+notose_s_8,synthesized,nomut_1,NA,notose,wrcjiktixgcwfmsmpdncrcyskijlczhrazehtcuyezvekvxghb,Y,
+notose_s_1_rev_40+46,synthesized,nomut_1,NA,notose,wrcjiktixgcwfmfmadntrczskijlczhrazehtcuyezvekvxghb,Y,"mod 40 l to y, mod 46 u to v"
